@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="170eb92d-0ea8-48fe-89bd-79bb4f374e7d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="(47)myCV" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="structural.rnc" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/structural.rnc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="meta.rnc" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/meta.rnc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9548">
+              <caret line="434" column="40" selection-start-line="433" selection-start-column="18" selection-end-line="434" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="morphext.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/morphext.min.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20350">
+              <caret line="925" column="21" selection-start-line="925" selection-start-column="21" selection-end-line="925" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11242">
+              <caret line="511" column="7" selection-start-line="511" selection-start-column="7" selection-end-line="511" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/js/scripts.js" />
+        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1349" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="(47)myCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="(47)myCV" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../rungacv/rangalankathilaka.github.com-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IJSE Files\Projects\(47)myCV" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/(47)myCV/index.html" />
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="170eb92d-0ea8-48fe-89bd-79bb4f374e7d" name="Default" comment="" />
+      <created>1535112025165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535112025165</updated>
+      <workItem from="1535112030219" duration="25595000" />
+      <workItem from="1535426722975" duration="7764000" />
+      <workItem from="1535447449862" duration="1336000" />
+      <workItem from="1536559389730" duration="17000" />
+      <workItem from="1536640087712" duration="147000" />
+      <workItem from="1536640364883" duration="1034000" />
+      <workItem from="1537075218742" duration="61000" />
+      <workItem from="1537112644788" duration="7819000" />
+      <workItem from="1537160118004" duration="12834000" />
+      <workItem from="1537179996280" duration="121000" />
+      <workItem from="1537180910596" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56735000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32729805" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286908" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49442896" visible="true" weight="0.1785235" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.5020747" side_tool="true" weight="0.17181209" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" sideWeight="0.505571" side_tool="true" visible="true" weight="0.1785235" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972144" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/blog.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/morphext.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.waypoints.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67584">
+          <caret line="3072" column="24" selection-start-line="3072" selection-start-column="24" selection-end-line="3072" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9790">
+          <caret line="445" column="30" selection-start-line="445" selection-start-column="30" selection-end-line="445" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9438">
+          <caret line="429" column="33" selection-start-line="395" selection-start-column="24" selection-end-line="429" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/morphext.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.waypoints.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67584">
+          <caret line="3072" column="24" selection-start-line="3072" selection-start-column="24" selection-end-line="3072" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9790">
+          <caret line="445" column="30" selection-start-line="445" selection-start-column="30" selection-end-line="445" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9438">
+          <caret line="429" column="33" selection-start-line="395" selection-start-column="24" selection-end-line="429" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/morphext.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.waypoints.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67584">
+          <caret line="3072" column="24" selection-start-line="3072" selection-start-column="24" selection-end-line="3072" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9790">
+          <caret line="445" column="30" selection-start-line="445" selection-start-column="30" selection-end-line="445" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9438">
+          <caret line="429" column="33" selection-start-line="395" selection-start-column="24" selection-end-line="429" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/morphext.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.waypoints.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67584">
+          <caret line="3072" column="24" selection-start-line="3072" selection-start-column="24" selection-end-line="3072" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9790">
+          <caret line="445" column="30" selection-start-line="445" selection-start-column="30" selection-end-line="445" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9438">
+          <caret line="429" column="33" lean-forward="true" selection-start-line="395" selection-start-column="24" selection-end-line="429" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/morphext.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.waypoints.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67584">
+          <caret line="3072" column="24" selection-start-line="3072" selection-start-column="24" selection-end-line="3072" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9790">
+          <caret line="445" column="30" lean-forward="true" selection-start-line="445" selection-start-column="30" selection-end-line="445" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27918">
+          <caret line="1269" column="85" selection-start-line="1269" selection-start-column="85" selection-end-line="1269" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96778">
+          <caret line="4399" column="5" selection-start-line="4399" selection-start-column="5" selection-end-line="4399" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/(47)myCV.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.waypoints.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/animsition.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/morphext.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html" />
+    <entry file="file://$PROJECT_DIR$/blog_post.html" />
+    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" column="21646" selection-start-line="4" selection-start-column="21646" selection-end-line="4" selection-end-column="21646" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11242">
+          <caret line="511" column="7" selection-start-line="511" selection-start-column="7" selection-end-line="511" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9548">
+          <caret line="434" column="40" selection-start-line="433" selection-start-column="18" selection-end-line="434" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builder/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20350">
+          <caret line="925" column="21" selection-start-line="925" selection-start-column="21" selection-end-line="925" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing/builder.jpg" />
+    <entry file="file://$PROJECT_DIR$/landing/template.jpg" />
+    <entry file="file://$PROJECT_DIR$/landing/top_cover.jpg" />
+    <entry file="file://$PROJECT_DIR$/landing/style.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="175" column="41" selection-start-line="175" selection-start-column="41" selection-end-line="175" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/structural.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
