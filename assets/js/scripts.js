@@ -435,45 +435,45 @@
 
 	}
 
-	$('body').prepend('<div class="theme_configs hidden visible">'+
-        '<div class="body">'+
-            '<div class="head_title">Style Selector</div>'+
-            '<div class="title">Themes</div>'+
-            '<div class="box themes">'+
-                '<div class="theme1 ">'+
-                    '<span class="color"></span>'+
-                '</div>'+
-                '<div class="theme2 active">'+
-                    '<span class="color"></span>'+
-                '</div>'+
-                '<div class="theme3">'+
-                    '<span class="color"></span>'+
-                '</div>'+
-                '<div class="theme4">'+
-                    '<span class="color"></span>'+
-                '</div>'+
-                '<div class="theme5">'+
-                    '<span class="color"></span>'+
-                '</div>'+
-                '<div class="theme6">'+
-                    '<span class="color"></span>'+
-                '</div>'+
-                '<div class="theme7">'+
-                    '<span class="color"></span>'+
-                '</div>'+
-                '<div class="theme8">'+
-                    '<span class="color"></span>'+
-                '</div>'+
-                '<div class="theme9">'+
-                    '<span class="color"></span>'+
-                '</div>'+
-                '<div class="theme10">'+
-                    '<span class="color"></span>'+
-                '</div>'+
-            '</div>'+
-        '</div>'+
-        '<div class="fa fa-angle-right btn"></div>'+
-    '</div>');
+    // $('body').prepend('<div class="theme_configs hidden visible">'+
+    //     '<div class="body">'+
+    //         '<div class="head_title">Style Selector</div>'+
+    //         '<div class="title">Themes</div>'+
+    //         '<div class="box themes">'+
+    //             '<div class="theme1 ">'+
+    //                 '<span class="color"></span>'+
+    //             '</div>'+
+    //             '<div class="theme2 active">'+
+    //                 '<span class="color"></span>'+
+    //             '</div>'+
+    //             '<div class="theme3">'+
+    //                 '<span class="color"></span>'+
+    //             '</div>'+
+    //             '<div class="theme4">'+
+    //                 '<span class="color"></span>'+
+    //             '</div>'+
+    //             '<div class="theme5">'+
+    //                 '<span class="color"></span>'+
+    //             '</div>'+
+    //             '<div class="theme6">'+
+    //                 '<span class="color"></span>'+
+    //             '</div>'+
+    //             '<div class="theme7">'+
+    //                 '<span class="color"></span>'+
+    //             '</div>'+
+    //             '<div class="theme8">'+
+    //                 '<span class="color"></span>'+
+    //             '</div>'+
+    //             '<div class="theme9">'+
+    //                 '<span class="color"></span>'+
+    //             '</div>'+
+    //             '<div class="theme10">'+
+    //                 '<span class="color"></span>'+
+    //             '</div>'+
+    //         '</div>'+
+    //     '</div>'+
+    //     '<div class="fa fa-angle-right btn"></div>'+
+    // '</div>');
 
 	$(".theme_configs .btn").click(function(){
 		var box = $(this).parent();
